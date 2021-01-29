@@ -1,13 +1,4 @@
 # Owen Moogk
-### Skills
-- Visual Studio Code, Github / Git Versioning
-- HTML5, CSS, JS, Python, ReactJS, C, C++
-- AI / Neural Networks (in Python)
-- Blender, SolidWorks, Onshape
-
-I’m currently working on web development, AI, and data structures and algorithms in python.
-
-![GitHub Stats for Owen](https://github-readme-stats.vercel.app/api?username=owenmoogk&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk&layout=compact)
 
 https://owenmoogk.codes
 
@@ -20,3 +11,13 @@ https://owenmoogk.codes
 <a href="https://open.spotify.com/user/uoxjt33b2c9axd2h9d74l3wag">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+### Skills
+- Visual Studio Code, Github / Git Versioning
+- HTML5, CSS, JS, Python, ReactJS, C, C++
+- AI / Neural Networks (in Python)
+- Blender, SolidWorks, Onshape
+
+I’m currently working on web development, AI, and data structures and algorithms in python.
+
+![GitHub Stats for Owen](https://github-readme-stats.vercel.app/api?username=owenmoogk&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk&layout=compact)
