@@ -1,17 +1,9 @@
-<h1>Owen Moogk</h1>
-<br />
-
+# Owen Moogk
 ## Technology
-- Visual Studio Code
-- Github / Git Versioning
-- HTML5, CSS, JS
-- Python
-- AI
-- ReactJS
-- Learning, C, C++
-- Blender
-- SolidWorks / Onshape
-- Blender
+- Visual Studio Code, Github / Git Versioning
+- HTML5, CSS, JS, Python, ReactJS, C, C++
+- AI / Neural Networks (in Python)
+- Blender, SolidWorks, Onshape
 
 I’m currently working on web development, AI, and data structures and algorithms in python.
 
