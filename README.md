@@ -15,7 +15,6 @@
 - Python
 - Blender
 - SolidWorks / Onshape
--
 
 I’m currently working on web development, AI, and data structures and algorithms in python.
 
