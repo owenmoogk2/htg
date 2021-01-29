@@ -7,9 +7,7 @@
 
 I’m currently working on web development, AI, and data structures and algorithms in python.
 
-![GitHub Stats for Owen](https://github-readme-stats.vercel.app/api?username=owenmoogk&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk)
+![GitHub Stats for Owen](https://github-readme-stats.vercel.app/api?username=owenmoogk&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk&layout=compact)
 
 https://owenmoogk.codes
 
