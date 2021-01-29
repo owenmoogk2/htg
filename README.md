@@ -1,20 +1,17 @@
-
 <h1>Owen Moogk</h1>
 <br />
-
-## Skills
-- Frontend: Javascript, HTML, and CSS/SCSS
-- Backend: Python (AI / Neural networks), Javascript, C
-- Other: I am currently learning ReactJS and C++.
-- Misc Skills: On top of coding, I also use Blender and Solidworks for CAD and animations.
 
 ## Technology
 - Visual Studio Code
 - Github / Git Versioning
 - HTML5, CSS, JS
 - Python
+- AI
+- ReactJS
+- Learning, C, C++
 - Blender
 - SolidWorks / Onshape
+- Blender
 
 I’m currently working on web development, AI, and data structures and algorithms in python.
 
