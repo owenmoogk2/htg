@@ -17,5 +17,3 @@ I usually code in Python, JS, and Java, and am learning C++ and C.
 ![GitHub Stats for Owen](https://github-readme-stats.vercel.app/api?username=owenmoogk&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk)
-
-stats not working, trying this to refresh?
