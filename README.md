@@ -11,6 +11,7 @@ https://owenmoogk.codes
 <a href="https://open.spotify.com/user/uoxjt33b2c9axd2h9d74l3wag">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<br />
 
 ### Skills
 - Visual Studio Code, Github / Git Versioning
