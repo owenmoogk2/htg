@@ -1,5 +1,5 @@
 # Owen Moogk
-## Technology
+### Skills
 - Visual Studio Code, Github / Git Versioning
 - HTML5, CSS, JS, Python, ReactJS, C, C++
 - AI / Neural Networks (in Python)
