@@ -10,8 +10,6 @@ engineering projects
 coding projects
     snake ai
     make a chrome extension
-    make an andriod / ios app
-    sorting visualizer and algorithms
     graphing with desmos api
     pathfinding visualser and algorithms
     do coding algo problems in email
@@ -20,17 +18,16 @@ coding projects
     make a vsc extension https://www.youtube.com/watch?v=a5DX5pQ9p5M
     algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
     make a binary tree visualizer
-    make a password manager in localstorage, see if i can implement a backend with flask to send emails with passwords, and download csv
+    backend password manager
     tetris
-    ai soduku
     ai rubix cube
     path to google website
     janiks chess problem
+    continue simplelib
+    maybe do something more with the instagram or email bot
 
 learning coding
     learn php, ruby, node js, sql (all the backend stuff)
-    work on binary trees, and other data structures on that guys github (https://github.com/codebasics/data-structures-algorithms-python) also do algorighms
-    heap data type python
     learn rust
     learn node js
     learn react https://www.youtube.com/watch?v=DLX62G4lc44
@@ -40,8 +37,6 @@ learning coding
 
 web development things
     html5thingy web template thing
-    website version 5
-    make a documentation website for simplelib
 
 other
     work on technical resume
