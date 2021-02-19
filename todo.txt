@@ -21,7 +21,6 @@ coding projects
     algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
     make a binary tree visualizer
     make a password manager in localstorage, see if i can implement a backend with flask to send emails with passwords, and download csv
-    covid web scraper
     tetris
     ai soduku
     ai rubix cube
