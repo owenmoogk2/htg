@@ -1,0 +1,55 @@
+engineering projects
+    mecanum drive robot
+    elegoo thing
+    mousetrap racecar with servo
+    airboat:https://www.youtube.com/watch?v=A5SU8Zp4zPE
+    osu keybind thingy (gamma m0 adafruit)
+    MASSIVE enter button
+    rc car
+
+coding projects
+    snake ai
+    make a chrome extension
+    make an andriod / ios app
+    sorting visualizer and algorithms
+    graphing with desmos api
+    pathfinding visualser and algorithms
+    do coding algo problems in email
+    project euler
+    codewars
+    make a vsc extension https://www.youtube.com/watch?v=a5DX5pQ9p5M
+    algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
+    make a binary tree visualizer
+    make a password manager in localstorage, see if i can implement a backend with flask to send emails with passwords, and download csv
+    covid web scraper
+    tetris
+    ai soduku
+    ai rubix cube
+    path to google website
+    janiks chess problem
+
+learning coding
+    learn php, ruby, node js, sql (all the backend stuff)
+    work on binary trees, and other data structures on that guys github (https://github.com/codebasics/data-structures-algorithms-python) also do algorighms
+    heap data type python
+    learn rust
+    learn node js
+    learn react https://www.youtube.com/watch?v=DLX62G4lc44
+    sql stuff https://www.youtube.com/watch?v=7S_tz1z_5bA
+    cs50
+    learn firebase for backend
+
+web development things
+    html5thingy web template thing
+    website version 5
+    make a documentation website for simplelib
+
+other
+    work on technical resume
+
+resources
+    https://www.youtube.com/c/codebasics/videos
+    https://github.com/codebasics
+    https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f
+    https://www.google.com/about/careers/applications/u/0/packets/e7764289-2f12-4ade-94ba-af6f882f76f2/form
+    https://www.codewars.com/dashboard
