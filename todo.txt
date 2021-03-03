@@ -11,20 +11,18 @@ coding projects
     other sudoku algorithms
     snake ai
     graphing with desmos api
-    pathfinding visualser and algorithms
+    pathfinding visualser and algorithms website
     do coding algo problems in email
     project euler
     codewars
     algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
-    make a binary tree visualizer
     backend password manager
     tetris
     ai rubix cube
     path to google website
-    janiks chess problem
     continue simplelib
     maybe do something more with the instagram or email bot
-
+    
 learning coding
     learn php, ruby, node js, sql (all the backend stuff)
     learn rust
@@ -33,9 +31,6 @@ learning coding
     sql stuff https://www.youtube.com/watch?v=7S_tz1z_5bA
     cs50
     learn firebase for backend
-
-web development things
-    html5thingy web template thing
 
 other
     work on technical resume
