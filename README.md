@@ -15,10 +15,10 @@ https://owenmoogk.codes
 
 ### Skills
 - Visual Studio Code, Github / Git Versioning
-- HTML5, CSS, JS, Python, ReactJS, C, C++
+- HTML5, CSS, JS, Python, ReactJS, C, C++, Django
 - AI / Neural Networks (in Python)
 - Blender, SolidWorks, Onshape
 
-I’m currently working on web development, AI, and data structures and algorithms in python.
+I’m currently working on web development, AI, and data structures and algorithms in python, as well as developing Django applications.
 
 ![GitHub Stats for Owen](https://github-readme-stats.vercel.app/api?username=owenmoogk&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk&layout=compact)
