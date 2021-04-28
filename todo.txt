@@ -9,7 +9,7 @@ engineering projects
 
 coding projects
     other sudoku algorithms
-    snake ai
+    snake ai (yeah using hamiltonian cycles doesnt really count lol)
     graphing with desmos api
     pathfinding visualser and algorithms website
     do coding algo problems in email
@@ -19,25 +19,19 @@ coding projects
     backend password manager
     tetris
     ai rubix cube
-    path to google website
-    continue simplelib
-    maybe do something more with the instagram or email bot
+    continue simplelib with datastructure algorithms
+    maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
+	make a twitter or instagram clone
     
 learning coding
-    learn php, ruby, node js, sql (all the backend stuff)
+    learn php, node js
     learn rust
-    learn node js
-    learn react https://www.youtube.com/watch?v=DLX62G4lc44
-    sql stuff https://www.youtube.com/watch?v=7S_tz1z_5bA
-    cs50
     learn firebase for backend
 
 other
     work on technical resume
 
 resources
-    https://www.youtube.com/c/codebasics/videos
-    https://github.com/codebasics
-    https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f
-    https://www.google.com/about/careers/applications/u/0/packets/e7764289-2f12-4ade-94ba-af6f882f76f2/form
+    https://www.youtube.com/c/codebasics/videos (done the important stuff)
+    https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f (add to simplelib?)
     https://www.codewars.com/dashboard
