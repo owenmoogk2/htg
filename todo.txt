@@ -22,7 +22,8 @@ coding projects
     continue simplelib with datastructure algorithms
     maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
 	make a twitter or instagram clone
-    
+	make an app for all social media accounts and email etc
+
 learning coding
     learn php, node js
     learn rust
