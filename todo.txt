@@ -11,15 +11,12 @@ coding projects
     other sudoku algorithms
     snake ai (yeah using hamiltonian cycles doesnt really count lol)
     graphing with desmos api
-    pathfinding visualser and algorithms website
     do coding algo problems in email
     project euler
     codewars
     algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
-    backend password manager
     tetris
     ai rubix cube
-    continue simplelib with datastructure algorithms
     maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
 	make a twitter or instagram clone
 	make an app for all social media accounts and email etc
@@ -33,6 +30,5 @@ other
     work on technical resume
 
 resources
-    https://www.youtube.com/c/codebasics/videos (done the important stuff)
     https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f (add to simplelib?)
     https://www.codewars.com/dashboard
