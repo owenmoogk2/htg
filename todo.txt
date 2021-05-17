@@ -1,6 +1,4 @@
 engineering projects
-    mecanum drive robot
-    elegoo thing
     mousetrap racecar with servo
     airboat:https://www.youtube.com/watch?v=A5SU8Zp4zPE
     osu keybind thingy (gamma m0 adafruit)
@@ -18,7 +16,6 @@ coding projects
     tetris
     ai rubix cube
     maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
-	make a twitter or instagram clone
 	make an app for all social media accounts and email etc
 
 learning coding
