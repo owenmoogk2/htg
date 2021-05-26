@@ -42,6 +42,8 @@ coding projects
 	
 	upload a video, perform speech recognition, and censor swear words
 
+	shazam chrome extension
+
 learning coding
     learn php, node js
     learn rust
