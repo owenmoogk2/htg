@@ -5,6 +5,8 @@ engineering projects
     MASSIVE enter button
     rc car
 
+	print elastic car and add servo
+
 coding projects
     other sudoku algorithms
     snake ai (yeah using hamiltonian cycles doesnt really count lol)
@@ -14,17 +16,51 @@ coding projects
     codewars
     algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
     tetris
-    ai rubix cube
+    ai rubix cube solver
     maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
 	make an app for all social media accounts and email etc
+	fix firefly sync
+	fix gravity sim
+	fix covid django site, migrate from poofs hackathon
+
+	emojii machine learning
+	rokcet on website with vid and calcualtiosn
+	rocket parachute
+	netflix clone with react
+	backend on digital ocean
+	lots of stuff bookmarked under programming
+	pomodero timer chrome extention
+	github api web app
+	spotify api web app
+
+	make a rocket calculator app
+
+	notebooks in coding folder
+
+	json to xml convertor
+
+	distance over time graphing caluclator with velocity and acceleration
+	
+	upload a video, perform speech recognition, and censor swear words
 
 learning coding
     learn php, node js
     learn rust
     learn firebase for backend
+	freecodecamp
+	thecodex
 
 other
     work on technical resume
+		harvard cs50
+		udemy / corsera course?
+		freecodecamp
+
+		git
+		datastructures and algorithms
+		languages
+
+		projects
 
 resources
     https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f (add to simplelib?)
