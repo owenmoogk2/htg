@@ -6,6 +6,7 @@ engineering projects
     rc car
 
 	print elastic car and add servo
+	rc airplane with drone parts??
 
 coding projects
     other sudoku algorithms
