@@ -24,8 +24,8 @@ coding projects
 	fix covid django site, migrate from poofs hackathon
 
 	emojii machine learning
-	rokcet on website with vid and calcualtiosn
-	rocket parachute
+	rocket website updates
+	add cat feeder to website
 	netflix clone with react
 	backend on digital ocean
 	lots of stuff bookmarked under programming
