@@ -38,8 +38,6 @@ coding projects
 
 	notebooks in coding folder
 
-	json to xml convertor
-
 	distance over time graphing caluclator with velocity and acceleration
 	
 	upload a video, perform speech recognition, and censor swear words
