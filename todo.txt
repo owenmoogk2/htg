@@ -1,24 +1,24 @@
 engineering projects
-    mousetrap racecar with servo
-    airboat:https://www.youtube.com/watch?v=A5SU8Zp4zPE
-    osu keybind thingy (gamma m0 adafruit)
-    MASSIVE enter button
-    rc car
+	mousetrap racecar with servo
+	airboat:https://www.youtube.com/watch?v=A5SU8Zp4zPE
+	osu keybind thingy (gamma m0 adafruit)
+	MASSIVE enter button
+	rc car
 
 	print elastic car and add servo
 	rc airplane with drone parts??
 
 coding projects
-    other sudoku algorithms
-    snake ai (yeah using hamiltonian cycles doesn't really count lol)
-    graphing with desmos api
-    do coding algo problems in email
-    project euler
-    codewars
-    algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
-    tetris
-    ai rubix cube solver
-    maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
+	other sudoku algorithms
+	snake ai (yeah using hamiltonian cycles doesn't really count lol)
+	graphing with desmos api
+	do coding algo problems in email
+	project euler
+	codewars
+	algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
+	tetris
+	ai rubix cube solver
+	maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
 	make an app for all social media accounts and email etc
 	fix firefly sync
 	fix gravity sim
@@ -46,14 +46,14 @@ coding projects
 	shazam chrome extension
 
 learning coding
-    learn php, node js
-    learn rust
-    learn firebase for backend
+	learn php, node js
+	learn rust
+	learn firebase for backend
 	freecodecamp
 	thecodex
 
 other
-    work on technical resume
+	work on technical resume
 		harvard cs50
 		udemy / corsera course?
 		freecodecamp
@@ -65,5 +65,5 @@ other
 		projects
 
 resources
-    https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f (add to simplelib?)
-    https://www.codewars.com/dashboard
+	https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f (add to simplelib?)
+	https://www.codewars.com/dashboard
