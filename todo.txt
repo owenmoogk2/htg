@@ -10,7 +10,7 @@ engineering projects
 
 coding projects
     other sudoku algorithms
-    snake ai (yeah using hamiltonian cycles doesnt really count lol)
+    snake ai (yeah using hamiltonian cycles doesn't really count lol)
     graphing with desmos api
     do coding algo problems in email
     project euler
@@ -30,15 +30,16 @@ coding projects
 	netflix clone with react
 	backend on digital ocean
 	lots of stuff bookmarked under programming
-	pomodero timer chrome extention
-	github api web app
+	pomodero timer chrome extension
 	spotify api web app
 
-	make a rocket calculator app
+	make a rocket calculator app with graphing
+
+	github api continue working on it
 
 	notebooks in coding folder
 
-	distance over time graphing caluclator with velocity and acceleration
+	distance over time graphing calculator with velocity and acceleration
 	
 	upload a video, perform speech recognition, and censor swear words
 
