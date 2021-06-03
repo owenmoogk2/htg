@@ -24,7 +24,6 @@ coding projects
 	fix gravity sim
 	fix covid django site, migrate from poofs hackathon
 
-	emojii machine learning
 	rocket website updates
 	add cat feeder to website
 	netflix clone with react
