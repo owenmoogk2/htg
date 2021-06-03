@@ -9,7 +9,6 @@ engineering projects
 	rc airplane with drone parts??
 
 coding projects
-	other sudoku algorithms
 	snake ai (yeah using hamiltonian cycles doesn't really count lol)
 	graphing with desmos api
 	do coding algo problems in email
