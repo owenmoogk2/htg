@@ -28,7 +28,6 @@ coding projects
 	netflix clone with react
 	backend on digital ocean
 	lots of stuff bookmarked under programming
-	pomodero timer chrome extension
 	spotify api web app
 
 	notebooks in coding folder
