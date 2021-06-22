@@ -31,8 +31,6 @@ coding projects
 	pomodero timer chrome extension
 	spotify api web app
 
-	make a rocket calculator app with graphing
-
 	github api continue working on it
 
 	notebooks in coding folder
