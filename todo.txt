@@ -31,8 +31,6 @@ coding projects
 	pomodero timer chrome extension
 	spotify api web app
 
-	github api continue working on it
-
 	notebooks in coding folder
 
 	distance over time graphing calculator with velocity and acceleration
