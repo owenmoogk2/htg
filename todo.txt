@@ -8,8 +8,13 @@ engineering projects
 	print elastic car and add servo
 	rc airplane with drone parts??
 
+	alarm with ultrasonic on door?
+
+	mirror clock
+
+	https://www.google.com/search?q=shadowbox&sxsrf=ALeKk03Ef-mwPQy2QFPOSVf-Ws9z24By8g:1626057620574&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN5e7WwNzxAhWTZs0KHcEvCVgQ_AUoAXoECAIQAw&biw=1920&bih=937
+
 coding projects
-	snake ai (yeah using hamiltonian cycles doesn't really count lol)
 	graphing with desmos api
 	do coding algo problems in email
 	project euler
@@ -17,11 +22,13 @@ coding projects
 	algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
 	tetris
 	ai rubix cube solver
-	maybe do something more with the instagram or email bot (instagram follower tracker, and unfollower notifications)
+	do something more with the instagram (instagram follower tracker, and unfollower notifications)
 	make an app for all social media accounts and email etc
 	fix firefly sync
 	fix gravity sim
 	fix covid django site, migrate from poofs hackathon
+
+	ai 2048
 
 	rocket website updates
 	netflix clone with react
@@ -35,6 +42,13 @@ coding projects
 	upload a video, perform speech recognition, and censor swear words
 
 	shazam chrome extension
+	
+	marking app with scanners for students JEFFs uni thing
+
+	email bot fullstack app
+
+	form submitter backend for users (like i have on my website)
+
 
 learning coding
 	learn php, node js
