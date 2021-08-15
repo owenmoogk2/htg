@@ -49,6 +49,14 @@ coding projects
 
 	form submitter backend for users (like i have on my website)
 
+	IN PROGRESS:
+		snake ai (yeah using hamiltonian cycles doesn't really count lol)
+		firefly sim
+		gravity sim
+		covid sites and scraper
+		grocery list etc make pretty
+		twitter bot
+		lan messenger (refresh automatically and mobile with react)
 
 learning coding
 	learn php, node js
