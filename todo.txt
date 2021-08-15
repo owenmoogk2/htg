@@ -24,12 +24,10 @@ coding projects
 	fix covid django site, migrate from poofs hackathon
 
 	rocket website updates
-	add cat feeder to website
 	netflix clone with react
 	backend on digital ocean
 	lots of stuff bookmarked under programming
-	spotify api web app
-
+	
 	notebooks in coding folder
 
 	distance over time graphing calculator with velocity and acceleration
