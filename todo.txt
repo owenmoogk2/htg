@@ -1,15 +1,14 @@
 engineering projects
 	mousetrap racecar with servo
-	airboat:https://www.youtube.com/watch?v=A5SU8Zp4zPE
+	airboat: https://www.youtube.com/watch?v=A5SU8Zp4zPE
 	rc car
 	print elastic car and add servo
-	rc airplane with drone parts??
+	rc airplane with drone parts
 	mirror clock
-
-	https://www.google.com/search?q=shadowbox&sxsrf=ALeKk03Ef-mwPQy2QFPOSVf-Ws9z24By8g:1626057620574&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN5e7WwNzxAhWTZs0KHcEvCVgQ_AUoAXoECAIQAw&biw=1920&bih=937
+	shadowbox: https://www.google.com/search?q=shadowbox&sxsrf=ALeKk03Ef-mwPQy2QFPOSVf-Ws9z24By8g:1626057620574&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN5e7WwNzxAhWTZs0KHcEvCVgQ_AUoAXoECAIQAw&biw=1920&bih=937
 
 coding projects
-	graphing with desmos api
+	graphing with desmos api (square algorithm)
 	algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
 	tetris
 	ai rubix cube solver
@@ -19,16 +18,12 @@ coding projects
 	fix gravity sim
 	fix covid django site, migrate from poofs hackathon
 
-	ai 2048
-
+	ai 2048 using snake outline
 	netflix clone with react
 	backend on digital ocean
 	lots of stuff bookmarked under programming
-	
-	notebooks in coding folder
-
+	notebooks in coding folder projects
 	distance over time graphing calculator with velocity and acceleration
-	
 	upload a video, perform speech recognition, and censor swear words
 	marking app with scanners for students JEFFs uni thing
 
