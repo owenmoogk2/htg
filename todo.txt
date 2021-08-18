@@ -1,3 +1,14 @@
+IN PROGRESS:
+	firefly sim
+	gravity sim
+	covid sites and scraper (merge projects)
+	grocery list etc make pretty
+	twitter bot
+	lan messenger (refresh automatically and mobile with react)
+	macrobox
+	email bot fullstack app
+	form submitter backend for users (like i have on my website)
+
 engineering projects
 	mousetrap racecar with servo
 	airboat: https://www.youtube.com/watch?v=A5SU8Zp4zPE
@@ -14,10 +25,6 @@ coding projects
 	ai rubix cube solver
 	do something more with the instagram (instagram follower tracker, and unfollower notifications)
 	make an app for all social media accounts and email etc
-	fix firefly sync
-	fix gravity sim
-	fix covid django site, migrate from poofs hackathon
-
 	ai 2048 using snake outline
 	netflix clone with react
 	backend on digital ocean
@@ -26,19 +33,6 @@ coding projects
 	distance over time graphing calculator with velocity and acceleration
 	upload a video, perform speech recognition, and censor swear words
 	marking app with scanners for students JEFFs uni thing
-
-	email bot fullstack app
-
-	form submitter backend for users (like i have on my website)
-
-	IN PROGRESS:
-		snake ai (yeah using hamiltonian cycles doesn't really count lol)
-		firefly sim
-		gravity sim
-		covid sites and scraper
-		grocery list etc make pretty
-		twitter bot
-		lan messenger (refresh automatically and mobile with react)
 
 learning coding
 	learn php, node js
