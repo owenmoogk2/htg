@@ -33,6 +33,7 @@ coding projects
 	distance over time graphing calculator with velocity and acceleration
 	upload a video, perform speech recognition, and censor swear words
 	marking app with scanners for students JEFFs uni thing
+	auto scheduler
 
 learning coding
 	learn php, node js
@@ -56,6 +57,8 @@ other
 		datastructures and algorithms
 		languages
 		projects
+
+	update current resume
 
 resources
 	https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f (add to simplelib?)
