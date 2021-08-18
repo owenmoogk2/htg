@@ -1,15 +1,9 @@
 engineering projects
 	mousetrap racecar with servo
 	airboat:https://www.youtube.com/watch?v=A5SU8Zp4zPE
-	osu keybind thingy (gamma m0 adafruit)
-	MASSIVE enter button
 	rc car
-
 	print elastic car and add servo
 	rc airplane with drone parts??
-
-	alarm with ultrasonic on door?
-
 	mirror clock
 
 	https://www.google.com/search?q=shadowbox&sxsrf=ALeKk03Ef-mwPQy2QFPOSVf-Ws9z24By8g:1626057620574&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN5e7WwNzxAhWTZs0KHcEvCVgQ_AUoAXoECAIQAw&biw=1920&bih=937
@@ -30,7 +24,6 @@ coding projects
 
 	ai 2048
 
-	rocket website updates
 	netflix clone with react
 	backend on digital ocean
 	lots of stuff bookmarked under programming
@@ -40,9 +33,6 @@ coding projects
 	distance over time graphing calculator with velocity and acceleration
 	
 	upload a video, perform speech recognition, and censor swear words
-
-	shazam chrome extension
-	
 	marking app with scanners for students JEFFs uni thing
 
 	email bot fullstack app
@@ -70,11 +60,9 @@ other
 		harvard cs50
 		udemy / corsera course?
 		freecodecamp
-
 		git
 		datastructures and algorithms
 		languages
-
 		projects
 
 resources
