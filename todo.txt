@@ -10,9 +10,6 @@ engineering projects
 
 coding projects
 	graphing with desmos api
-	do coding algo problems in email
-	project euler
-	codewars
 	algo problem https://www.youtube.com/watch?v=3Q_oYDQ2whso
 	tetris
 	ai rubix cube solver
@@ -54,6 +51,12 @@ learning coding
 	learn firebase for backend
 	freecodecamp
 	thecodex
+	edx
+	leetcode
+	codewars
+	coding emails
+	linkedin earnings
+	project euler
 
 other
 	work on technical resume
