@@ -24,6 +24,7 @@ engineering projects
 	print elastic car and add servo
 	rc airplane with drone parts
 	shadowbox: https://www.google.com/search?q=shadowbox&sxsrf=ALeKk03Ef-mwPQy2QFPOSVf-Ws9z24By8g:1626057620574&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN5e7WwNzxAhWTZs0KHcEvCVgQ_AUoAXoECAIQAw&biw=1920&bih=937
+	arduino controlling leds and changing based on spotify playlist
 
 coding projects
 	graphing with desmos api (square algorithm)
