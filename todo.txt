@@ -6,8 +6,16 @@ IN PROGRESS:
 	twitter bot
 	lan messenger (refresh automatically and mobile with react)
 	macrobox
+		holes and 3d printing
+		soldering the pcb
+	mirror clock
+		buy mirrors and leds
+		assemble
 	email bot fullstack app
 	form submitter backend for users (like i have on my website)
+	personal website:
+		projects archive
+		homepage scroll about
 
 engineering projects
 	mousetrap racecar with servo
@@ -15,7 +23,6 @@ engineering projects
 	rc car
 	print elastic car and add servo
 	rc airplane with drone parts
-	mirror clock
 	shadowbox: https://www.google.com/search?q=shadowbox&sxsrf=ALeKk03Ef-mwPQy2QFPOSVf-Ws9z24By8g:1626057620574&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN5e7WwNzxAhWTZs0KHcEvCVgQ_AUoAXoECAIQAw&biw=1920&bih=937
 
 coding projects
