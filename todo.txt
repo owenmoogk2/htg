@@ -13,9 +13,6 @@ IN PROGRESS:
 		assemble
 	email bot fullstack app
 	form submitter backend for users (like i have on my website)
-	personal website:
-		projects archive
-		homepage scroll about
 
 engineering projects
 	mousetrap racecar with servo
