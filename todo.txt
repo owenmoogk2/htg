@@ -1,16 +1,26 @@
 IN PROGRESS:
+	
+	macrobox
+		WAITING on delivered parts
+		3d printing
+		soldering the pcb
+
+	mirror clock
+		WAITING on delivered parts
+		buy mirrors and leds
+		assemble
+	
+	model rocket
+		upcoming: parachute test launch 2.0
+	
+	tensorflow tutorial
+	
 	firefly sim
 	gravity sim
 	covid sites and scraper (merge projects)
 	grocery list etc make pretty
 	twitter bot
 	lan messenger (refresh automatically and mobile with react)
-	macrobox
-		holes and 3d printing
-		soldering the pcb
-	mirror clock
-		buy mirrors and leds
-		assemble
 	email bot fullstack app
 	form submitter backend for users (like i have on my website)
 
