@@ -15,13 +15,14 @@ IN PROGRESS:
 	
 	tensorflow tutorial
 	
+	email bot fullstack app
+	
 	firefly sim
 	gravity sim
 	covid sites and scraper (merge projects)
 	grocery list etc make pretty
 	twitter bot
 	lan messenger (refresh automatically and mobile with react)
-	email bot fullstack app
 	form submitter backend for users (like i have on my website)
 
 engineering projects
