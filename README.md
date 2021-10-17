@@ -1,6 +1,6 @@
 # Owen Moogk
 
-https://owenmoogk.codes
+https://owenmoogk.tk
 
 <a href="https://twitter.com/owen_moogk">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
