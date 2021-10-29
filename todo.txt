@@ -1,7 +1,7 @@
 IN PROGRESS:
 	
 	macrobox
-		3d printing
+		janiks new arduino
 
 	mirror clock
 		WAITING on delivered parts
