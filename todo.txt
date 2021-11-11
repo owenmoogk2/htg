@@ -15,8 +15,15 @@ IN PROGRESS:
 	
 	email bot fullstack app
 	
+	personal website
+		finish adding all the projects
+
+	snake ai
+		complete it, put the two together
+
+	covid websites, need to combine scraper website and backend into one
+
 	firefly sim
-	covid sites and scraper (merge projects)
 	grocery list etc make pretty
 	twitter bot
 	lan messenger (refresh automatically and mobile with react)
