@@ -16,7 +16,6 @@ IN PROGRESS:
 	email bot fullstack app
 	
 	firefly sim
-	gravity sim
 	covid sites and scraper (merge projects)
 	grocery list etc make pretty
 	twitter bot
