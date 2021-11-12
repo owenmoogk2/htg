@@ -21,11 +21,11 @@ IN PROGRESS:
 	snake ai
 		complete it, put the two together
 
-	covid websites, need to combine scraper website and backend into one
-
+	covid websites, finish up the backend
+	
 	firefly sim
 	grocery list etc make pretty
-	twitter bot
+	twitter bot (add to site?)
 	lan messenger (refresh automatically and mobile with react)
 	form submitter backend for users (like i have on my website)
 
@@ -71,18 +71,6 @@ learning coding
 	coding emails
 	linkedin earnings
 	project euler
-
-other
-	work on technical resume
-		harvard cs50
-		udemy / corsera course?
-		freecodecamp
-		git
-		datastructures and algorithms
-		languages
-		projects
-
-	update current resume
 
 resources
 	https://medium.com/techie-delight/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f (add to simplelib?)
