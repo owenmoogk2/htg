@@ -20,12 +20,10 @@ IN PROGRESS:
 
 	snake ai
 		complete it, put the two together
-
-	covid websites, finish up the backend
 	
 	firefly sim
 	grocery list etc make pretty
-	twitter bot (add to site?)
+	twitter bot
 	lan messenger (refresh automatically and mobile with react)
 	form submitter backend for users (like i have on my website)
 
