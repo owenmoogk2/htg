@@ -8,9 +8,6 @@ IN PROGRESS:
 		buy mirrors and leds
 		assemble
 	
-	model rocket
-		upcoming: parachute test launch 2.0
-	
 	tensorflow tutorial
 	
 	email bot fullstack app
