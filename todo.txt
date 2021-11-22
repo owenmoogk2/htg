@@ -49,10 +49,6 @@ coding projects
 	upload a video, perform speech recognition, and censor swear words
 	marking app with scanners for students JEFFs uni thing
 	auto scheduler
-	frontend pathfinding w custom code
-		a star
-		greedy 
-		etc
 
 learning coding
 	learn php, node js
@@ -64,7 +60,7 @@ learning coding
 	leetcode
 	codewars
 	coding emails
-	linkedin earnings
+	linkedin larning
 	project euler
 
 resources
