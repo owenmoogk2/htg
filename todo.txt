@@ -20,7 +20,6 @@ IN PROGRESS:
 	
 	firefly sim
 	twitter bot
-	lan messenger (refresh automatically and mobile with react)
 	form submitter backend for users (like i have on my website)
 
 engineering projects
