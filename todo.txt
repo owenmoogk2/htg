@@ -19,7 +19,6 @@ IN PROGRESS:
 		complete it, put the two together
 	
 	firefly sim
-	grocery list etc make pretty
 	twitter bot
 	lan messenger (refresh automatically and mobile with react)
 	form submitter backend for users (like i have on my website)
