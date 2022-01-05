@@ -14,6 +14,8 @@ IN PROGRESS:
 	twitter bot
 	form submitter backend for users (like i have on my website)
 
+	update path to google website
+
 engineering projects
 	mousetrap racecar with servo
 	airboat: https://www.youtube.com/watch?v=A5SU8Zp4zPE
