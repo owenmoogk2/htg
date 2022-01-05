@@ -1,7 +1,4 @@
 IN PROGRESS:
-	
-	macrobox
-		janiks new arduino
 
 	mirror clock
 		WAITING on delivered parts
