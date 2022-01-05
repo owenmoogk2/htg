@@ -8,9 +8,6 @@ IN PROGRESS:
 	tensorflow tutorial
 	
 	email bot fullstack app
-	
-	personal website
-		finish adding all the projects
 
 	snake ai
 		complete it, put the two together
