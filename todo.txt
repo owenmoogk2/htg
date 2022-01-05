@@ -6,8 +6,6 @@ IN PROGRESS:
 		assemble
 	
 	tensorflow tutorial
-	
-	email bot fullstack app
 
 	snake ai
 		complete it, put the two together
