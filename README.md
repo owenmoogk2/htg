@@ -19,6 +19,5 @@ https://owenmoogk.tk
 - AI / Neural Networks (in Python)
 - Blender, SolidWorks, Onshape
 
-I’m currently working on web development, learning about Django and React fullstack web applications.
-
+I’m currently working in tensorflow, learning about the applications of AI and neural networks.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk&layout=compact)
