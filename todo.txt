@@ -31,7 +31,6 @@ coding projects
 	do something more with the instagram (instagram follower tracker, and unfollower notifications)
 	make an app for all social media accounts and email etc
 	ai 2048 using snake outline
-	netflix clone with react
 	backend on digital ocean
 	lots of stuff bookmarked under programming
 	notebooks in coding folder projects
