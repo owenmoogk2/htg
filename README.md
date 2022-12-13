@@ -1,5 +1,5 @@
 # Owen Moogk
-Mechatronics Engineering @ UW
+Mechatronics Engineering Student @ UW (2027)
 
 https://owenmoogk.github.io
 
