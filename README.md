@@ -12,5 +12,3 @@ https://www.linkedin.com/in/owenmoogk/
 - Blender, SolidWorks, Onshape
 
 I’m currently working in tensorflow, learning about the applications of AI and neural networks.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenmoogk&layout=compact)
